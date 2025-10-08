@@ -1,7 +1,7 @@
 {
   "name": "aivc-plugin",
   "author": "fansonly",
-  "url": "",
+  "url": "https://github.com/fansOnly/aivc-plugin",
   "version": "0.0.1",
   "minAppVersion": "2.10.14",
   "backends": [
