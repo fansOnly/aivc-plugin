@@ -1,0 +1,29 @@
+{
+  "name": "plugin-aivc-report",
+  "author": "fansonly",
+  "url": "",
+  "version": "0.0.1",
+  "minAppVersion": "2.10.14",
+  "backends": [
+    "all"
+  ],
+  "frontends": [
+    "all"
+  ],
+  "displayName": {
+    "default": "plugin-aivc-report",
+    "zh_CN": "综述报告插件"
+  },
+  "description": {
+    "default": "plugin-aivc-report",
+    "zh_CN": "综述报告插件"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "funding": {
+    "custom": []
+  },
+  "keywords": []
+}
