@@ -1,5 +1,5 @@
 {
-  "name": "plugin-aivc-report",
+  "name": "aivc-plugin",
   "author": "fansonly",
   "url": "",
   "version": "0.0.1",
@@ -11,11 +11,11 @@
     "all"
   ],
   "displayName": {
-    "default": "plugin-aivc-report",
+    "default": "aivc-plugin",
     "zh_CN": "综述报告插件"
   },
   "description": {
-    "default": "plugin-aivc-report",
+    "default": "aivc-plugin",
     "zh_CN": "综述报告插件"
   },
   "readme": {
