@@ -2,7 +2,7 @@
   "name": "aivc-plugin",
   "author": "fansonly",
   "url": "https://github.com/fansOnly/aivc-plugin",
-  "version": "0.0.1",
+  "version": "0.0.7",
   "minAppVersion": "2.10.14",
   "backends": [
     "all"
@@ -10,6 +10,7 @@
   "frontends": [
     "all"
   ],
+  "disabledInPublish": false,
   "displayName": {
     "default": "aivc-plugin",
     "zh_CN": "综述报告插件"
